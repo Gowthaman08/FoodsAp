@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "289460051799",
+    "firebase_url": "https://madassign-33901.firebaseio.com",
+    "project_id": "madassign-33901",
+    "storage_bucket": "madassign-33901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289460051799:android:f735fcdcdcca5b1903a812",
+        "android_client_info": {
+          "package_name": "com.example.madassign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289460051799-vhqc9jc70ai0r5svuca1fk11e1inqs5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madassign",
+            "certificate_hash": "ce8f631fad5cb4a8864f009ca8b0603200c510b8"
+          }
+        },
+        {
+          "client_id": "289460051799-p5lqa7p8ce0ile4h7rr359et9djbs1ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjOoDRQeEJ_knoSAh4VGNuFZIId0nBSys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289460051799-p5lqa7p8ce0ile4h7rr359et9djbs1ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
