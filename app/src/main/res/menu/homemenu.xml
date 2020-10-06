@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/item1id"
+        android:icon="@drawable/additem"
+        app:showAsAction="ifRoom"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/item2id"
+        android:icon="@drawable/useric"
+        app:showAsAction="ifRoom"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/item3id"
+        android:title="Logout"
+        app:showAsAction="never" />
+
+
+</menu>
